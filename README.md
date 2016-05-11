@@ -1,1 +1,1 @@
-Visit this site at https://luismribeiro.github.io/omnb-status/
+Visit this site at https://lmribeiro.github.io/omnb-status/
